@@ -38,12 +38,12 @@ const updateAllMaterials = () => {
  * Environment map
  */
 const environmentMap = cubeTextureLoader.load([
-    '/textures/environmentMaps/4/px.png',
-    '/textures/environmentMaps/4/nx.png',
-    '/textures/environmentMaps/4/py.png',
-    '/textures/environmentMaps/4/ny.png',
-    '/textures/environmentMaps/4/pz.png',
-    '/textures/environmentMaps/4/nz.png'
+    '/textures/environmentMaps/px.png',
+    '/textures/environmentMaps/nx.png',
+    '/textures/environmentMaps/py.png',
+    '/textures/environmentMaps/ny.png',
+    '/textures/environmentMaps/pz.png',
+    '/textures/environmentMaps/nz.png'
 ])
 const texture = new THREE.TextureLoader().load(
     'textures/map/04.jpg'
