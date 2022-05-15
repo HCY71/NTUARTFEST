@@ -1,5 +1,5 @@
 # NTU-Art-Festival
-This is a project that realistically renders the designs of NTU-Art-Festival.
+This is a project that realistically renders the designs of NTU-Art-Festival.\
 Mainly constructed with THREE.js.
 
 ## Setup
@@ -14,3 +14,6 @@ npm install
 npm run dev
 
 ```
+
+## Online Version
+Check out this project online: [LINK](https://ntu-art-fest.hcy71.vercel.app)
